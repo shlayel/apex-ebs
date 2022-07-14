@@ -31,6 +31,7 @@ Rem    MODIFIED   (MM/DD/YYYY)
 Rem      dpeake    02/14/2019 - Created
 Rem      shlayel   02/21/2022 - Modified, allowing complex password by using "" in the connect statement
 Rem      shlayel   07/14/2022 - Modified the minimum REQUIREMENTS and rename Application Express to APEX
+Rem      shlayel   07/14/2022 - Added XX_EMPS and XX_CUSTOMER_LOCATIONS Views
 
 prompt .  ____   ____           ____        ____
 prompt . /    \ |    \   /\    /     |     /
