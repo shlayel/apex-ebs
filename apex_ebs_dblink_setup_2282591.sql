@@ -1,4 +1,4 @@
-Rem  Copyright (c) Oracle Corporation 1999 - 2019. All Rights Reserved.
+Rem  Copyright (c) Oracle Corporation 1999 - 2022. All Rights Reserved.
 Rem
 Rem    NAME
 Rem      apexebs_apex_dblink_setup.sql
@@ -10,7 +10,7 @@ Rem    NOTES
 Rem      Assumes the schema associated with the APEX Workspace [XX_APEX_LOCAL] is connected on the local database (not running on the EBS Database).
 Rem
 Rem    REQUIREMENTS
-Rem      - Oracle 11.2.0.4 or later
+Rem      - Oracle 12.1.0.2 or later
 Rem      - User (schema) must have CREATE DATABASE LINK privilege
 Rem
 Rem    Arguments:
